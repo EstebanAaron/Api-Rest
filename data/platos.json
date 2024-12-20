@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "nombre": "Paella",
+    "coste": 10.00,
+    "precio_venta": 15.00,
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "nombre": "Tacos",
+    "coste": 5.00,
+    "precio_venta": 8.00,
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "nombre": "Sushi",
+    "coste": 12.00,
+    "precio_venta": 20.00,
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "nombre": "Pizza Margherita",
+    "coste": 7.00,
+    "precio_venta": 12.00,
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "nombre": "Hamburguesa",
+    "coste": 6.00,
+    "precio_venta": 10.00,
+    "stock": 80
+  },
+  {
+    "id": 6,
+    "nombre": "Ensalada César",
+    "coste": 4.00,
+    "precio_venta": 7.00,
+    "stock": 40
+  },
+  {
+    "id": 7,
+    "nombre": "Ramen",
+    "coste": 8.00,
+    "precio_venta": 13.00,
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "nombre": "Ceviche",
+    "coste": 9.00,
+    "precio_venta": 14.00,
+    "stock": 35
+  },
+  {
+    "id": 9,
+    "nombre": "Falafel",
+    "coste": 3.00,
+    "precio_venta": 6.00,
+    "stock": 70
+  },
+  {
+    "id": 10,
+    "nombre": "Pad Thai",
+    "coste": 7.00,
+    "precio_venta": 11.00,
+    "stock": 45
+  },
+  {
+    "id": 11,
+    "nombre": "Burrito",
+    "coste": 5.50,
+    "precio_venta": 9.00,
+    "stock": 55
+  },
+  {
+    "id": 12,
+    "nombre": "Samosa",
+    "coste": 2.50,
+    "precio_venta": 5.00,
+    "stock": 90
+  },
+  {
+    "id": 13,
+    "nombre": "Gyoza",
+    "coste": 4.50,
+    "precio_venta": 8.00,
+    "stock": 65
+  },
+  {
+    "id": 14,
+    "nombre": "Moussaka",
+    "coste": 6.50,
+    "precio_venta": 10.50,
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "nombre": "Tiramisú",
+    "coste": 3.50,
+    "precio_venta": 6.50,
+    "stock": 50
+  },
+  {
+    "id": 16,
+    "nombre": "Croissant",
+    "coste": 1.50,
+    "precio_venta": 3.00,
+    "stock": 120
+  },
+  {
+    "id": 17,
+    "nombre": "Empanada",
+    "coste": 2.00,
+    "precio_venta": 4.00,
+    "stock": 80
+  },
+  {
+    "id": 18,
+    "nombre": "Lasagna",
+    "coste": 7.50,
+    "precio_venta": 12.00,
+    "stock": 40
+  },
+  {
+    "id": 19,
+    "nombre": "Churros",
+    "coste": 2.00,
+    "precio_venta": 4.50,
+    "stock": 100
+  },
+  {
+    "id": 20,
+    "nombre": "Goulash",
+    "coste": 8.00,
+    "precio_venta": 13.00,
+    "stock": 25
+  },
+  {
+    "id": 21,
+    "nombre": "Risotto",
+    "coste": 9.00,
+    "precio_venta": 14.00,
+    "stock": 35
+  },
+  {
+    "id": 22,
+    "nombre": "Pollo al Curry",
+    "coste": 7.00,
+    "precio_venta": 12.00,
+    "stock": 50
+  },
+  {
+    "id": 23,
+    "nombre": "Sopa de Miso",
+    "coste": 3.00,
+    "precio_venta": 6.00,
+    "stock": 70
+  },
+  {
+    "id": 24,
+    "nombre": "Gazpacho",
+    "coste": 4.00,
+    "precio_venta": 7.00,
+    "stock": 60
+  },
+  {
+    "id": 25,
+    "nombre": "Polenta",
+    "coste": 5.00,
+    "precio_venta": 8.00,
+    "stock": 40
+  },
+  {
+    "id": 26,
+    "nombre": "Quiche Lorraine",
+    "coste": 6.00,
+    "precio_venta": 10.00,
+    "stock": 45
+  },
+  {
+    "id": 27,
+    "nombre": "Biryani",
+    "coste": 8.00,
+    "precio_venta": 13.00,
+    "stock": 30
+  },
+  {
+    "id": 28,
+    "nombre": "Pasta Carbonara",
+    "coste": 7.00,
+    "precio_venta": 11.00,
+    "stock": 55
+  },
+  {
+    "id": 29,
+    "nombre": "Tarta de Manzana",
+    "coste": 4.50,
+    "precio_venta": 7.50,
+    "stock": 50
+  },
+  {
+    "id": 30,
+    "nombre": "Pollo Asado",
+    "coste": 6.00,
+    "precio_venta": 10.00,
+    "stock": 65
+  },
+  {
+    "id": 31,
+    "nombre": "Sopa de Tomate",
+    "coste": 3.50,
+    "precio_venta": 6.00,
+    "stock": 70
+  },
+  {
+    "id": 32,
+    "nombre": "Tortilla Española",
+    "coste": 4.00,
+    "precio_venta": 7.00,
+    "stock": 80
+  },
+  {
+    "id": 33,
+    "nombre": "Pancakes",
+    "coste": 2.50,
+    "precio_venta": 5.00,
+    "stock": 90
+  },
+  {
+    "id": 34,
+    "nombre": "Curry de Garbanzos",
+    "coste": 5.00,
+    "precio_venta": 8.00,
+    "stock": 40
+  },
+  {
+    "id": 35,
+    "nombre": "Pasta Alfredo",
+    "coste": 6.00,
+    "precio_venta": 10.00,
+    "stock": 50
+  },
+  {
+    "id": 36,
+    "nombre": "Tarta de Queso",
+    "coste": 4.00,
+    "precio_venta": 7.00,
+    "stock": 60
+  },
+  {
+    "id": 37,
+    "nombre": "Pollo Teriyaki",
+    "coste": 7.00,
+    "precio_venta": 12.00,
+    "stock": 45
+  },
+  {
+    "id": 38,
+    "nombre": "Sopa de Cebolla",
+    "coste": 3.50,
+    "precio_venta": 6.50,
+    "stock": 70
+  },
+  {
+    "id": 39,
+    "nombre": "Pasta Pesto",
+    "coste": 5.00,
+    "precio_venta": 9.00,
+    "stock": 55
+  },
+  {
+    "id": 40,
+    "nombre": "Brownie",
+    "coste": 3.00,
+    "precio_venta": 6.00,
+    "stock": 80
+  },
+  {
+    "id": 41,
+    "nombre": "Paella Valenciana",
+    "coste": 10.00,
+    "precio_venta": 15.00,
+    "stock": 50
+  },
+  {
+    "id": 42,
+    "nombre": "Tacos al Pastor",
+    "coste": 5.00,
+    "precio_venta": 8.00,
+    "stock": 100
+  },
+  {
+    "id": 43,
+    "nombre": "Sushi Nigiri",
+    "coste": 12.00,
+    "precio_venta": 20.00,
+    "stock": 30
+  },
+  {
+    "id": 44,
+    "nombre": "Pizza Pepperoni",
+    "coste": 7.00,
+    "precio_venta": 12.00,
+    "stock": 60
+  },
+  {
+    "id": 45,
+    "nombre": "Hamburguesa con Queso",
+    "coste": 6.00,
+    "precio_venta": 10.00,
+    "stock": 80
+  },
+  {
+    "id": 46,
+    "nombre": "Ensalada Griega",
+    "coste": 4.00,
+    "precio_venta": 7.00,
+    "stock": 40
+  },
+  {
+    "id": 47,
+    "nombre": "Ramen Tonkotsu",
+    "coste": 8.00,
+    "precio_venta": 13.00,
+    "stock": 25
+  },
+  {
+    "id": 48,
+    "nombre": "Ceviche Peruano",
+    "coste": 9.00,
+    "precio_venta": 14.00,
+    "stock": 35
+  },
+  {
+    "id": 49,
+    "nombre": "Falafel con Hummus",
+    "coste": 3.00,
+    "precio_venta": 6.00,
+    "stock": 70
+  },
+  {
+    "id": 50,
+    "nombre": "Pad Thai de Pollo",
+    "coste": 7.00,
+    "precio_venta": 11.00,
+    "stock": 45
+  },
+  {
+    "id": 51,
+    "nombre": "Burrito de Carne",
+    "coste": 5.50,
+    "precio_venta": 9.00,
+    "stock": 55
+  },
+  {
+    "id": 52,
+    "nombre": "Samosa de Verduras",
+    "coste": 2.50,
+    "precio_venta": 5.00,
+    "stock": 90
+  },
+  {
+    "id": 53,
+    "nombre": "Gyoza de Cerdo",
+    "coste": 4.50,
+    "precio_venta": 8.00,
+    "stock": 65
+  },
+  {
+    "id": 54,
+    "nombre": "Moussaka Griega",
+    "coste": 6.50,
+    "precio_venta": 10.50,
+    "stock": 30
+  },
+  {
+    "id": 55,
+    "nombre": "Tiramisú Italiano",
+    "coste": 3.50,
+    "precio_venta": 6.50,
+    "stock": 50
+  },
+  {
+    "id": 56,
+    "nombre": "Croissant de Mantequilla",
+    "coste": 1.50,
+    "precio_venta": 3.00,
+    "stock": 120
+  },
+  {
+    "id": 57,
+    "nombre": "Empanada de Carne",
+    "coste": 2.00,
+    "precio_venta": 4.00,
+    "stock": 80
+  },
+  {
+    "id": 58,
+    "nombre": "Lasagna Boloñesa",
+    "coste": 7.50,
+    "precio_venta": 12.00,
+    "stock": 40
+  },
+  {
+    "id": 59,
+    "nombre": "Churros con Chocolate",
+    "coste": 2.00,
+    "precio_venta": 4.50,
+    "stock": 100
+  },
+  {
+    "id": 60,
+    "nombre": "Goulash Húngaro",
+    "coste": 8.00,
+    "precio_venta": 13.00,
+    "stock": 25
+  }
+]
